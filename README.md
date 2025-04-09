@@ -11,3 +11,6 @@
 
 - **Homework 4.** - Penalized Regression:
 [Link](https://github.com/ewapajak/ML/blob/main/homework04_penalized_regression.ipynb)
+
+- **Homework 5.** - Kernel Methods:
+[Link](https://github.com/ewapajak/ML/blob/main/Homework05_kernel_methods.ipynb)
