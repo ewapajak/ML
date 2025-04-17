@@ -14,3 +14,6 @@
 
 - **Homework 5.** - Kernel Methods:
 [Link](https://github.com/ewapajak/ML/blob/main/Homework05_kernel_methods.ipynb)
+
+-**Homework 6.** - Tree Methods:
+[Link](https://github.com/ewapajak/ML/blob/main/Homework06_Tree_methods.ipynb)
