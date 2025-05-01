@@ -20,3 +20,6 @@
 
 - **Homework 7.** - Gradient Boosting:
 [Link](https://github.com/ewapajak/ML/blob/main/homework07_gradient_boosting.ipynb)
+
+- **Homework 8.** - Automatic gradient training:
+- [Link](https://github.com/ewapajak/ML/blob/main/homework08_automatic_gradient_training.ipynb)
