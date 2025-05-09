@@ -23,3 +23,6 @@
 
 - **Homework 8.** - Automatic gradient training:
 [Link](https://github.com/ewapajak/ML/blob/main/homework08_automatic_gradient_training.ipynb)
+
+- **Homework 9.** - Multilayer Perceptron:
+[Link](https://github.com/ewapajak/ML/blob/main/homework09_multi_layer_perceptron.ipynb)
