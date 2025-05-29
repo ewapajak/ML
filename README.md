@@ -26,3 +26,6 @@
 
 - **Homework 9.** - Multilayer Perceptron:
 [Link](https://github.com/ewapajak/ML/blob/main/homework09_multi_layer_perceptron.ipynb)
+
+- **Homework 11.** - Autoencoders:
+[Link](https://github.com/ewapajak/ML/blob/main/Homework11_autoencoders.ipynb)
